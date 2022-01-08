@@ -1,9 +1,18 @@
 <h1 align="center">Hey, I'm Saad Ahmed</h1>
 <h3 align="center">A professional Android Developer from Bangladesh</h3>
 
+<h4 align="left">
+<img align="center" src="https://img.icons8.com/plasticine/100/000000/employee-card.png" alt="Introduction" height="20" width="20" /></a>
+Let me introduce myself First. I'm Saad Ahmed, a professional Android Developer for Bangladesh. Working as an App developer since 4 years. Have a great knowledge about Data Structure and Algorithms and Problem solving with Java. Expertise with Android SDK, Google play service, Restful API, MVVM/MVC architecture, Firebase and Version Control Integration. Also tried my hands on Flutter, React Native, C# and Python, Web Development (Wordpress, HTML5, CSS3) and much more.
+</h4>
+
 - 👨‍💻 Have a look at my portfolio [https://saadahmedev.com/](https://saadahmedev.com/)
 
 - 📧 If you have any queries **contact@saadahmedev.com**
+
+- 📞 Feel free to call me **+880 1794-784643**
+
+- 🏠 **Dhaka, Bangladesh**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
