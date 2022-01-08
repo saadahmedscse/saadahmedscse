@@ -39,7 +39,7 @@ Let me introduce myself First. I'm Saad Ahmed, a professional Android Developer 
 <a href="https://www.adobe.com/products/xd.html" target="blank"><img align="center" src="https://img.icons8.com/color/240/000000/adobe-xd--v1.png" alt="Adobe XD" height="45" width="45" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saadahmedscse&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="saadahmedscse" />
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=saadahmedscse&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="saadahmedscse" />
 <img align="right" height="163em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saadahmedscse&" alt="saadahmedscse" /></p>
 
 <p align="center"></p>
