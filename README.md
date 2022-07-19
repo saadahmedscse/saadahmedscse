@@ -3,7 +3,7 @@
 
 <h4 align="left">
 <img align="center" src="https://img.icons8.com/plasticine/100/000000/employee-card.png" alt="Introduction" height="20" width="20" /></a>
-Let me introduce myself First. I'm Saad Ahmed, a professional Android Developer from Bangladesh. Working as an App developer since 3 years. Have a great knowledge about Data Structure and Algorithms and Problem solving with Java. Expertise with Android SDK, Google play service, Restful API, MVVM/MVP architecture, Firebase and Version Control System. Also tried my hands on Flutter, React Native, Python, Web Development (Wordpress, HTML, CSS, Javascript) and much more.
+Let me introduce myself First. I'm Saad Ahmed, a professional Android Developer from Bangladesh. Working as an App developer since 2018. Have a great knowledge about Data Structure and Algorithms and Problem solving with Java and C. Expertise with Java, Kotlin, Android SDK, Google play service, Restful API, MVVM/MVP architecture, View Binding, Data Binding, Dagger-Hilt, Firebase and Version Control System. Also tried my hands on Flutter, React Native, Python, Web Development (Wordpress, HTML, CSS, Javascript) and much more.
 </h4>
 
 - 👨‍💻 Have a look at my portfolio [https://saadahmedev.com/](https://saadahmedev.com/)
