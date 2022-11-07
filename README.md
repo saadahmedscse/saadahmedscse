@@ -1,18 +1,27 @@
-<h1 align="center">Hey, I'm Saad Ahmed</h1>
+<h2 align="center">Hey, I'm Saad Ahmed</h2>
 <h3 align="center">A professional Android Developer from Bangladesh</h3>
 
-<h4 align="left">
-<img align="center" src="https://img.icons8.com/plasticine/100/000000/employee-card.png" alt="Introduction" height="20" width="20" /></a>
-Let me introduce myself First. I'm Saad Ahmed, a professional Android Developer from Bangladesh. Working as an App developer since 2018. Have a great knowledge about Data Structure and Algorithms and Problem solving with Java and C. Expertise with Java, Kotlin, Android SDK, Google play service, Restful API, MVVM/MVP architecture, View Binding, Data Binding, Dagger-Hilt, Firebase and Version Control System. Also tried my hands on Flutter, React Native, Python, Web Development (Wordpress, HTML, CSS, Javascript) and much more.
+<h4 align="justify">
+How to develop a great software that your customers will love? I've had a lot of projects in my career where I've been tasked to create software with this goal in mind. In each case it has come down to creativity and experience.
+</br></br>
+As a developer I create things, design interfaces to not make them feel bad while using it. I use patterns, algorithms and engineering principles to craft and mold products into something that customers will love. At the same time I'm efficient and work quickly. Always I try to be creative to put all these pieces together.
+</br></br>
+I'm a life long learner. I'm an Android App Developer and generally I love to solve Programming Problems with Data Structure and Algorithms.
+</br></br>
+In weekends, I love to play video games with my friends which make me feel much better.
+</br></br>
+In my website https://saadahmedev.com I put the details of my recent works. Feel free to reach out and contact me.
 </h4>
 
-- 👨‍💻 Have a look at my portfolio [https://saadahmedev.com/](https://saadahmedev.com/)
-
-- 📧 If you have any queries **contact@saadahmedev.com**
-
-- 📞 Feel free to call me **+880 1794-784643**
-
-- 🏠 **Dhaka, Bangladesh**
+### SKILLS
+```json
+{
+  "Languages"  : ["Java", "Kotlin", "JavaScript", "C", "C++"],
+  "Front-end"  : ["Java", "Kotlin", "React JS"],
+  "Back-end"   : ["Firebase", "Node JS", "Express JS"],
+  "DBMS"       : ["Mongo DB", "MySQL"]
+}
+```
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
