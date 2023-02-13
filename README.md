@@ -19,7 +19,7 @@
 ```
 
 ### RECENT PROJECTS
-* <a href="https://play.google.com/store/apps/details?id=com.topseba.app" target="blank">TopSeba</a><p>Hospital Management System</p>
+* <p><a href="https://play.google.com/store/apps/details?id=com.topseba.app" target="_blank">TopSeba</a> - Hospital Management System</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
