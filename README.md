@@ -2,16 +2,35 @@
 
 | 🎁 Projects                                                                                         |                                                                ⭐ Stars                                                                |                                                               📚 Forks                                                                |                                                               🛎 Issues                                                                |                                                             📬 Pull requests                                                              |
 |-----------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------:|
- | <a href="https://github.com/saadahmedscse/Android-Popup-Dialog"><b>Android Popup Dialog</b></a>     |  <img alt="Stars" src="https://img.shields.io/github/stars/saadahmedscse/Android-Popup-Dialog?style=flat-square&labelColor=343b41"/>  |  <img alt="Forks" src="https://img.shields.io/github/forks/saadahmedscse/Android-Popup-Dialog?style=flat-square&labelColor=343b41"/>  |  <img alt="Forks" src="https://img.shields.io/github/issues/saadahmedscse/Android-Popup-Dialog?style=flat-square&labelColor=343b41"/>  |  <img alt="Stars" src="https://img.shields.io/github/issues-pr/saadahmedscse/Android-Popup-Dialog?style=flat-square&labelColor=343b41"/>  |
- | <a href="https://github.com/saadahmedscse/Helper-Widgets-Android"><b>Helper Widgets Android</b></a> | <img alt="Stars" src="https://img.shields.io/github/stars/saadahmedscse/Helper-Widgets-Android?style=flat-square&labelColor=343b41"/> | <img alt="Forks" src="https://img.shields.io/github/forks/saadahmedscse/Helper-Widgets-Android?style=flat-square&labelColor=343b41"/> | <img alt="Forks" src="https://img.shields.io/github/issues/saadahmedscse/Helper-Widgets-Android?style=flat-square&labelColor=343b41"/> | <img alt="Stars" src="https://img.shields.io/github/issues-pr/saadahmedscse/Helper-Widgets-Android?style=flat-square&labelColor=343b41"/> |
+| <a href="https://github.com/saadahmedscse/Android-Popup-Dialog"><b>Android Popup Dialog</b></a>     |  <img alt="Stars" src="https://img.shields.io/github/stars/saadahmedscse/Android-Popup-Dialog?style=flat-square&labelColor=343b41"/>  |  <img alt="Forks" src="https://img.shields.io/github/forks/saadahmedscse/Android-Popup-Dialog?style=flat-square&labelColor=343b41"/>  |  <img alt="Forks" src="https://img.shields.io/github/issues/saadahmedscse/Android-Popup-Dialog?style=flat-square&labelColor=343b41"/>  |  <img alt="Stars" src="https://img.shields.io/github/issues-pr/saadahmedscse/Android-Popup-Dialog?style=flat-square&labelColor=343b41"/>  |
+| <a href="https://github.com/saadahmedscse/Helper-Widgets-Android"><b>Helper Widgets Android</b></a> | <img alt="Stars" src="https://img.shields.io/github/stars/saadahmedscse/Helper-Widgets-Android?style=flat-square&labelColor=343b41"/> | <img alt="Forks" src="https://img.shields.io/github/forks/saadahmedscse/Helper-Widgets-Android?style=flat-square&labelColor=343b41"/> | <img alt="Forks" src="https://img.shields.io/github/issues/saadahmedscse/Helper-Widgets-Android?style=flat-square&labelColor=343b41"/> | <img alt="Stars" src="https://img.shields.io/github/issues-pr/saadahmedscse/Helper-Widgets-Android?style=flat-square&labelColor=343b41"/> |
+| <a href="https://github.com/saadahmedscse/BD-SMS-Gateway"><b>BD SMS Gateway</b></a>                 |     <img alt="Stars" src="https://img.shields.io/github/stars/saadahmedscse/BD-SMS-Gateway?style=flat-square&labelColor=343b41"/>     |     <img alt="Forks" src="https://img.shields.io/github/forks/saadahmedscse/BD-SMS-Gateway?style=flat-square&labelColor=343b41"/>     |     <img alt="Forks" src="https://img.shields.io/github/issues/saadahmedscse/BD-SMS-Gateway?style=flat-square&labelColor=343b41"/>     |     <img alt="Stars" src="https://img.shields.io/github/issues-pr/saadahmedscse/BD-SMS-Gateway?style=flat-square&labelColor=343b41"/>     |
 
 ### SKILLS
+
 ```json
 {
-  "Languages"  : ["Java", "Kotlin", "JavaScript", "C", "C++"],
-  "Front-end"  : ["Java", "Kotlin", "React JS"],
-  "Back-end"   : ["Firebase", "Node JS", "Express JS"],
-  "DBMS"       : ["Mongo DB", "MySQL"]
+  "Languages": [
+    "Java",
+    "Kotlin",
+    "JavaScript",
+    "C",
+    "C++"
+  ],
+  "Front-end": [
+    "Java",
+    "Kotlin",
+    "React JS"
+  ],
+  "Back-end": [
+    "Firebase",
+    "Node JS",
+    "Express JS"
+  ],
+  "DBMS": [
+    "Mongo DB",
+    "MySQL"
+  ]
 }
 ```
 
