@@ -1,3 +1,18 @@
+<h2 align="center">Hey, I'm Saad Ahmed</h2>
+<h3 align="center">A professional Android Developer from Bangladesh</h3>
+
+<h4 align="justify">
+How to develop a great software that your customers will love? I've had a lot of projects in my career where I've been tasked to create software with this goal in mind. In each case it has come down to creativity and experience.
+</br></br>
+As a developer I create things, design interfaces to not make them feel bad while using it. I use patterns, algorithms and engineering principles to craft and mold products into something that customers will love. At the same time I'm efficient and work quickly. Always I try to be creative to put all these pieces together.
+</br></br>
+I'm a life long learner. I'm an Android App Developer and generally I love to solve Programming Problems with Data Structure and Algorithms.
+</br></br>
+In weekends, I love to play video games with my friends which make me feel much better.
+</br></br>
+In my website https://saadahmedev.com I put the details of my recent works. Feel free to reach out and contact me.
+</h4>
+
 ### OPEN SOURCE PROJECTS
 
 | 🎁 Projects                                                                                         |                                                                ⭐ Stars                                                                |                                                               📚 Forks                                                                |                                                               🛎 Issues                                                                |                                                             📬 Pull requests                                                              |
