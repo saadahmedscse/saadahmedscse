@@ -26,10 +26,21 @@ In my website https://saadahmedev.com I put the details of my recent works. Feel
 ### SKILLS
 ```json
 {
-  "Languages"  : ["Java", "Kotlin", "JavaScript", "C", "C++"],
-  "Front-end"  : ["Java", "Kotlin", "React JS"],
-  "Back-end"   : ["Firebase", "Node JS", "Express JS"],
-  "DBMS"       : ["Mongo DB", "MySQL"]
+  "Languages"       : ["Java", "Kotlin", "JavaScript", "C", "C++"],
+  "Front-end"       : ["Java", "Kotlin", "React JS"],
+  "Back-end"        : ["Firebase", "Node JS", "Express JS"],
+  "DBMS"            : ["Mongo DB", "MySQL"]
+}
+```
+
+### SOCIAL LINKS
+```json
+{
+  "LeetCode"        : "https://leetcode.com/saadahmedscse/",
+  "LinkedIn"        : "https://www.linkedin.com/in/saadahmedscse/",
+  "Stack Overflow"  : "https://stackoverflow.com/users/10610218/saad-ahmed",
+  "Facebook"        : "https://www.facebook.com/SaadAhmedSCSE/",
+  "Discord"         : "https://discord.gg/263rX7JwfZ",
 }
 ```
 
