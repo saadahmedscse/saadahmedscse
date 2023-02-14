@@ -1,17 +1,10 @@
-<h2 align="center">Hey, I'm Saad Ahmed</h2>
-<h3 align="center">A professional Android Developer from Bangladesh</h3>
+Detailed-oriented, responsible and committed engineer, with a get-it-done, on-time and high-quality product spirit, and more than a demi-decade of experience defining requirements, designing, implementing, testing and delivering complex Native Android Apps using variety programming languages and technologies. I've had a lot of projects in my career where I've been tasked to create software with this goal in mind. In each case it has come down to creativity and experience.
 
-<h4 align="justify">
-How to develop a great software that your customers will love? I've had a lot of projects in my career where I've been tasked to create software with this goal in mind. In each case it has come down to creativity and experience.
-</br></br>
-As a developer I create things, design interfaces to not make them feel bad while using it. I use patterns, algorithms and engineering principles to craft and mold products into something that customers will love. At the same time I'm efficient and work quickly. Always I try to be creative to put all these pieces together.
-</br></br>
-I'm a life long learner. I'm an Android App Developer and generally I love to solve Programming Problems with Data Structure and Algorithms.
-</br></br>
-In weekends, I love to play video games with my friends which make me feel much better.
-</br></br>
-In my website https://saadahmedev.com I put the details of my recent works. Feel free to reach out and contact me.
-</h4>
+I use patterns, algorithms and engineering principles to craft and mold products into something that customers will love. At the same time I'm efficient and work quickly. Always I try to be creative to put all these pieces together.
+
+I'm a life long learner, a tech enthusiast. I love to play games on holidays and solving programming problems everyday morning.
+
+My specialties include quickly learning new skills, tools and programming languages, solving problem, design principles, Model View ViewModel (MVVM) of organizing code. So far I have Java, Kotlin, C, C++, JavaScript, Maven, Gradle, Jenkins, Git, Node JS, Express JS, Mongo DB under my belt. I've started learning Java Spring Framework, Spring Boot, Oracle DB. I'm still enthusiastically grabbing onto any other programming languages, frameworks, or principles I can integrate into the coding in my hand.
 
 ### OPEN SOURCE PROJECTS
 
