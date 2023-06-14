@@ -21,7 +21,7 @@ My specialties include quickly learning new skills, tools and programming langua
 {
   "Languages"       : ["Java", "Kotlin", "JavaScript", "C", "C++"],
   "Front-end"       : ["Java", "Kotlin", "React JS"],
-  "Back-end"        : ["Firebase", "Node JS", "Express JS"],
+  "Back-end"        : ["Spring Core, Spring MVC, Spring Boot, Firebase", "Node JS", "Express JS"],
   "DBMS"            : ["Mongo DB", "MySQL"]
 }
 ```
