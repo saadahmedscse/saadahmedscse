@@ -19,10 +19,10 @@ My specialties include quickly learning new skills, tools and programming langua
 ### SKILLS
 ```json
 {
-  "Languages"       : ["Java", "Kotlin", "JavaScript", "C", "C++"],
-  "Front-end"       : ["Java", "Kotlin", "React JS"],
-  "Back-end"        : ["Spring Core, Spring MVC, Spring Boot, Firebase", "Node JS", "Express JS"],
-  "DBMS"            : ["Mongo DB", "MySQL"]
+  "Languages"       : ["Java", "Kotlin", "JavaScript", "C"],
+  "Front-end"       : ["Java", "Kotlin", "Native Android App Development", "JSP"],
+  "Back-end"        : ["Servlet", "JDBC", "Spring Core - MVC - Boot", "Firebase", "JPA", "Java AOC", "Hibernate ORM"],
+  "DBMS"            : ["Mongo DB", "MySQL", "H2", "Oracle DB", "PostgreSQL"]
 }
 ```
 
