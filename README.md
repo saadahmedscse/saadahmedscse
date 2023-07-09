@@ -21,8 +21,8 @@ My specialties include quickly learning new skills, tools and programming langua
 {
   "Languages"       : ["Java", "Kotlin", "JavaScript", "C"],
   "Front-end"       : ["Java", "Kotlin", "Native Android App Development", "JSP"],
-  "Back-end"        : ["Servlet", "JDBC", "Spring Core - MVC - Boot", "Firebase", "JPA", "Java AOC", "Hibernate ORM"],
-  "DBMS"            : ["Mongo DB", "MySQL", "H2", "Oracle DB", "PostgreSQL"]
+  "Back-end"        : ["Servlet", "JDBC", "Spring Core - MVC - Boot - AOP", "Firebase", "JPA", "Hibernate ORM"],
+  "DBMS"            : ["Mongo DB", "MySQL", "Oracle DB", "PostgreSQL"]
 }
 ```
 
