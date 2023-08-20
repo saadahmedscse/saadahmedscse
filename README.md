@@ -1,10 +1,14 @@
-Detailed-oriented, responsible and committed engineer, with a get-it-done, on-time and high-quality product spirit, and more than a demi-decade of experience defining requirements, designing, implementing, testing and delivering complex Native Android Apps using variety programming languages and technologies. I've had a lot of projects in my career where I've been tasked to create software with this goal in mind. In each case it has come down to creativity and experience.
+Experienced Native Android Application Developer | Strong Java, Kotlin, and Backend Technology Skills | Problem-Solving Enthusiast | MVVM Architecture | Rest API | Rx Java | Dagger-Hilt | Firebase | Google Map | Payment Gateway Integration | Backend Development with Java Spring Boot, Spring MVC, Spring Security, JPA, Hibernate, and MySQL | Java Microservices | AWS EC2 | AWS RDS
 
-I use patterns, algorithms and engineering principles to craft and mold products into something that customers will love. At the same time I'm efficient and work quickly. Always I try to be creative to put all these pieces together.
+I am a seasoned Native Android Application Developer with five years of hands-on experience in crafting top-notch mobile applications. Proficient in Java and Kotlin core concepts, I have honed my problem-solving skills by solving over 400 challenges on LeetCode. My passion for technology drives me to stay updated with the latest trends and innovations in the industry.
 
-I'm a life long learner, a tech enthusiast. I love to play games on holidays and solving programming problems everyday morning.
+Having mastered MVVM Architecture, Rest API, Rx Java, Socket programming, Dagger-Hilt, Firebase, Google Map integration, Payment Gateway, and SMS gateway integration, I have delivered outstanding Android applications with a seamless user experience.
 
-My specialties include quickly learning new skills, tools and programming languages, solving problem, design principles, Model View ViewModel (MVVM) of organizing code. So far I have Java, Kotlin, C, C++, JavaScript, Maven, Gradle, Jenkins, Git, Node JS, Express JS, Mongo DB under my belt. I've started learning Java Spring Framework, Spring Boot, Oracle DB. I'm still enthusiastically grabbing onto any other programming languages, frameworks, or principles I can integrate into the coding in my hand.
+Eager to expand my horizons, I have embarked on a journey into the world of Backend Technology. My dedication led me to learn Java Spring Boot, Spring MVC, Spring Security, JPA, Hibernate, and MySQL, allowing me to contribute to five successful backend projects. With a deep understanding of Java Microservices, AOP, and AWS technologies like EC2 and RDS, I am well-equipped to tackle complex backend challenges.
+
+I thrive in dynamic environments and value collaboration with diverse teams to deliver exceptional results. As I embrace new opportunities in the backend domain, I am excited to bring my versatile skill set to the table and contribute to innovative solutions that make a real impact.
+
+Let's connect and explore how we can collaborate on exciting projects in the realms of mobile and backend technology. Reach out to me for discussions on Android development, backend solutions, or any tech-related endeavors.
 
 ### OPEN SOURCE PROJECTS
 
