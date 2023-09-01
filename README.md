@@ -1,14 +1,8 @@
-Experienced Native Android Application Developer | Strong Java, Kotlin, and Backend Technology Skills | Problem-Solving Enthusiast | MVVM Architecture | Rest API | Rx Java | Dagger-Hilt | Firebase | Google Map | Payment Gateway Integration | Backend Development with Java Spring Boot, Spring MVC, Spring Security, JPA, Hibernate, and MySQL | Java Microservices | AWS EC2 | AWS RDS
+I'm an experienced Native Android App Developer with 5+ years of hands-on experience in Java and Kotlin. I've solved over 400 challenges on LeetCode, honing my problem-solving skills. I excel in MVVM Architecture, Rest API, Rx Java, Dagger-Hilt, Firebase, Google Maps, Payment Gateway, and SMS gateway integration.
 
-I am a seasoned Native Android Application Developer with five years of hands-on experience in crafting top-notch mobile applications. Proficient in Java and Kotlin core concepts, I have honed my problem-solving skills by solving over 400 challenges on LeetCode. My passion for technology drives me to stay updated with the latest trends and innovations in the industry.
+I'm also venturing into Backend Technology, mastering Java Spring Boot, Spring MVC, Spring Security, JPA, Hibernate, and MySQL. I've contributed to five successful backend projects, understand Java Microservices, AOP, and AWS technologies like EC2 and RDS.
 
-Having mastered MVVM Architecture, Rest API, Rx Java, Socket programming, Dagger-Hilt, Firebase, Google Map integration, Payment Gateway, and SMS gateway integration, I have delivered outstanding Android applications with a seamless user experience.
-
-Eager to expand my horizons, I have embarked on a journey into the world of Backend Technology. My dedication led me to learn Java Spring Boot, Spring MVC, Spring Security, JPA, Hibernate, and MySQL, allowing me to contribute to five successful backend projects. With a deep understanding of Java Microservices, AOP, and AWS technologies like EC2 and RDS, I am well-equipped to tackle complex backend challenges.
-
-I thrive in dynamic environments and value collaboration with diverse teams to deliver exceptional results. As I embrace new opportunities in the backend domain, I am excited to bring my versatile skill set to the table and contribute to innovative solutions that make a real impact.
-
-Let's connect and explore how we can collaborate on exciting projects in the realms of mobile and backend technology. Reach out to me for discussions on Android development, backend solutions, or any tech-related endeavors.
+I thrive in dynamic environments, value collaboration, and bring a versatile skill set. Let's connect to explore exciting mobile and backend tech projects. Reach out for Android development, backend solutions, or any tech endeavors.
 
 ### OPEN SOURCE PROJECTS
 
