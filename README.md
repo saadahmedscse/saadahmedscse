@@ -1,8 +1,8 @@
-I'm an experienced Native Android App Developer with 5+ years of hands-on experience in Java and Kotlin. I've solved over 400 challenges on LeetCode, honing my problem-solving skills. I excel in MVVM Architecture, Rest API, Rx Java, Dagger-Hilt, Firebase, Google Maps, Payment Gateway, and SMS gateway integration.
+I am a passionate Software Engineer with expertise in Distributed Systems, Cloud-Native Architecture, and Microservices, focusing on performance and scalability. With over five years of hands-on experience, I transitioned from a successful three-year career in Native Android Development to working with distributed systems and cloud technologies.
 
-I'm also venturing into Backend Technology, mastering Java Spring Boot, Spring MVC, Spring Security, JPA, Hibernate, and MySQL. I've contributed to five successful backend projects, understand Java Microservices, AOP, and AWS technologies like EC2 and RDS.
+Currently, I design and implement large-scale distributed systems, leveraging microservices architecture to build scalable and resilient solutions. I actively solve complex, high-impact challenges, ensuring systems perform efficiently under heavy loads and scale effortlessly in cloud environments.
 
-I thrive in dynamic environments, value collaboration, and bring a versatile skill set. Let's connect to explore exciting mobile and backend tech projects. Reach out for Android development, backend solutions, or any tech endeavors.
+I am driven by the challenge of optimizing systems for performance and reliability while collaborating with teams to deliver cutting-edge solutions. Let’s connect to explore opportunities around distributed systems, microservices, or other technology-related challenges to which I can contribute.
 
 ### OPEN SOURCE PROJECTS
 
