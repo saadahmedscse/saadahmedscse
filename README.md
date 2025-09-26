@@ -21,7 +21,7 @@ I am driven by the challenge of optimizing systems for performance and reliabili
 ```json
 {
   "🔹LeetCode"        : "https://leetcode.com/saadahmedscse/",
-  "🔹LinkedIn"        : "https://www.linkedin.com/in/saadahmedscse/",
+  "🔹LinkedIn"        : "https://www.linkedin.com/in/saadahmedscsev2/",
   "🔹Stack Overflow"  : "https://stackoverflow.com/users/10610218/saad-ahmed",
   "🔹Facebook"        : "https://www.facebook.com/SaadAhmedSCSE/",
   "🔹Discord"         : "https://discord.gg/263rX7JwfZ"
