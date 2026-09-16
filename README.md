@@ -1,44 +1,131 @@
-[![Cover](images/cover.jpg)](https://saadahmedev.com)
+<img src="images/banner.png" alt="Saad Ahmed — Backend Software Engineer, Dhaka, Bangladesh. Innovating at the intersection of performance and scalability." width="100%" />
 
-✨ I am a passionate Software Engineer with expertise in Distributed Systems, Cloud-Native Architecture, and Microservices, focusing on performance and scalability. With over five years of hands-on experience, I transitioned from a successful three-year career in Native Android Development to working with distributed systems and cloud technologies.
+<img src="images/stats.png" alt="6+ years engineering · 10.2M+ installs shipped · 5 platforms shipped · 400+ problems solved" width="100%" />
 
-Currently, I design and implement large-scale distributed systems, leveraging microservices architecture to build scalable and resilient solutions. I actively solve complex, high-impact challenges, ensuring systems perform efficiently under heavy loads and scale effortlessly in cloud environments.
+<br>
 
-I am driven by the challenge of optimizing systems for performance and reliability while collaborating with teams to deliver cutting-edge solutions. Let’s connect to explore opportunities around distributed systems, microservices, or other technology-related challenges to which I can contribute.
+> Backend engineer in Dhaka, six years across banking, fintech and health platforms — the last three on backend and infrastructure. Mostly Spring Boot on Kubernetes, and the integration work that keeps new products talking to the systems underneath them.
 
-### 🔥 SKILLS
-```json
-{
-  "🔸Languages"             : ["Java", "Kotlin", "JavaScript", "TypeScript"],
-  "🔸Developments"          : ["Spring Boot", "Android"],
-  "🔸Distributed Systems"   : ["Docker, Kubernetes, Microservices, Kafka, CI-CD"],
-  "🔸Cloud Platforms"       : ["AWS, Firebase, Supabase"],
-  "🔸DBMS"                  : ["MySQL", "PostgreSQL"]
-}
-```
+<h3><img src="images/headers/stack.png" height="38" alt="Stack" /></h3>
 
-### 🔗 SOCIAL LINKS
-```json
-{
-  "🔹LeetCode"        : "https://leetcode.com/saadahmedscse/",
-  "🔹LinkedIn"        : "https://www.linkedin.com/in/saadahmedscsev2/",
-  "🔹Stack Overflow"  : "https://stackoverflow.com/users/10610218/saad-ahmed",
-  "🔹Facebook"        : "https://www.facebook.com/SaadAhmedSCSE/",
-  "🔹Discord"         : "https://discord.gg/263rX7JwfZ"
-}
-```
+<img src="images/stack.png" alt="Backend: Java, Kotlin, Spring Boot, Spring Security. Data: PostgreSQL, MySQL, Redis, Elasticsearch. Messaging: Apache Kafka, RabbitMQ, WebSockets. Cloud: AWS, Docker, Kubernetes. Delivery: Jenkins, Git, Grafana, JUnit. Mobile: Android, Jetpack Compose, Firebase." width="100%" />
 
-### 📚 OPEN SOURCE LIBRARIES
-| 🎁 Projects                                                                                         |                                                                ⭐ Stars                                                                |                                                               📚 Forks                                                                |                                                               🛎 Issues                                                                |                                                             📬 Pull requests                                                              |
-|-----------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------:|
- | <a href="https://github.com/saadahmedscse/Android-Popup-Dialog"><b>Android Popup Dialog</b></a>     |  <img alt="Stars" src="https://img.shields.io/github/stars/saadahmedscse/Android-Popup-Dialog?style=flat-square&labelColor=343b41"/>  |  <img alt="Forks" src="https://img.shields.io/github/forks/saadahmedscse/Android-Popup-Dialog?style=flat-square&labelColor=343b41"/>  |  <img alt="Forks" src="https://img.shields.io/github/issues/saadahmedscse/Android-Popup-Dialog?style=flat-square&labelColor=343b41"/>  |  <img alt="Stars" src="https://img.shields.io/github/issues-pr/saadahmedscse/Android-Popup-Dialog?style=flat-square&labelColor=343b41"/>  |
- | <a href="https://github.com/saadahmedscse/Helper-Widgets-Android"><b>Helper Widgets Android</b></a> | <img alt="Stars" src="https://img.shields.io/github/stars/saadahmedscse/Helper-Widgets-Android?style=flat-square&labelColor=343b41"/> | <img alt="Forks" src="https://img.shields.io/github/forks/saadahmedscse/Helper-Widgets-Android?style=flat-square&labelColor=343b41"/> | <img alt="Forks" src="https://img.shields.io/github/issues/saadahmedscse/Helper-Widgets-Android?style=flat-square&labelColor=343b41"/> | <img alt="Stars" src="https://img.shields.io/github/issues-pr/saadahmedscse/Helper-Widgets-Android?style=flat-square&labelColor=343b41"/> |
- | <a href="https://github.com/saadahmedscse/BD-SMS-Gateway"><b>BD SMS Gateway</b></a>                 |     <img alt="Stars" src="https://img.shields.io/github/stars/saadahmedscse/BD-SMS-Gateway?style=flat-square&labelColor=343b41"/>     |     <img alt="Forks" src="https://img.shields.io/github/forks/saadahmedscse/BD-SMS-Gateway?style=flat-square&labelColor=343b41"/>     |     <img alt="Forks" src="https://img.shields.io/github/issues/saadahmedscse/BD-SMS-Gateway?style=flat-square&labelColor=343b41"/>     |     <img alt="Stars" src="https://img.shields.io/github/issues-pr/saadahmedscse/BD-SMS-Gateway?style=flat-square&labelColor=343b41"/>     |
- | <a href="https://github.com/saadahmedscse/ShortIntent"><b>Short Intent - Intent Library</b></a>     |      <img alt="Stars" src="https://img.shields.io/github/stars/saadahmedscse/ShortIntent?style=flat-square&labelColor=343b41"/>       |      <img alt="Forks" src="https://img.shields.io/github/forks/saadahmedscse/ShortIntent?style=flat-square&labelColor=343b41"/>       |      <img alt="Forks" src="https://img.shields.io/github/issues/saadahmedscse/ShortIntent?style=flat-square&labelColor=343b41"/>       |      <img alt="Stars" src="https://img.shields.io/github/issues-pr/saadahmedscse/ShortIntent?style=flat-square&labelColor=343b41"/>       |
- | <a href="https://github.com/saadahmedscse/TinyDB"><b>Tiny DB - Simple Shared Preference</b></a>     |         <img alt="Stars" src="https://img.shields.io/github/stars/saadahmedscse/TinyDB?style=flat-square&labelColor=343b41"/>         |         <img alt="Forks" src="https://img.shields.io/github/forks/saadahmedscse/TinyDB?style=flat-square&labelColor=343b41"/>         |         <img alt="Forks" src="https://img.shields.io/github/issues/saadahmedscse/TinyDB?style=flat-square&labelColor=343b41"/>         |         <img alt="Stars" src="https://img.shields.io/github/issues-pr/saadahmedscse/TinyDB?style=flat-square&labelColor=343b41"/>         |
+<h3><img src="images/headers/work.png" height="38" alt="Selected work" /></h3>
 
-### 📈 STATS
-<a href="https://github.com/saadahmedscse/"><img align="center" height="157em" src="https://github-readme-stats.vercel.app/api?username=saadahmedscse&theme=tokyonight&layout=compact&show_icons=true&locale=en" alt="saadahmedscse" /><img align="right" height="157em" src="https://github-readme-stats.vercel.app/api/top-langs?username=saadahmedscse&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="saadahmedscse" /></a>
-</br>
-</br>
-<a href="https://leetcode.com/saadahmedscse/"><img align="center" height="150em" src="https://leetcard.jacoblin.cool/saadahmedscse?theme=dark" alt="saadahmedscse" /><a href="https://github.com/saadahmedscse/"><img align="right" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=saadahmedscse&theme=tokyonight&layout=compact" alt="saadahmedscse" />
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<b>Toffee</b><br />
+<sub>BANGLALINK &middot; VIDEO STREAMING</sub>
+<br /><br />
+Lifted streaming quality and app performance by roughly 30% through refactoring, and wired in four analytics streams across acquisition, attribution, engagement and retention.
+<br /><br />
+<code>~30% faster</code>
+</td>
+<td width="50%" valign="top">
+<b>MyBL</b><br />
+<sub>BANGLALINK &middot; SELF-CARE TELECOM</sub>
+<br /><br />
+Optimised list rendering with RecyclerView across the app's screens, lifting scroll performance, and standardised accessibility identifiers so QA could automate against them.
+<br /><br />
+<code>10M+ downloads</code>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<b>Pocket eWallet</b><br />
+<sub>BASHUNDHARA GROUP &middot; DIGITAL WALLET</sub>
+<br /><br />
+Spring Boot microservices on Kubernetes. Bank transfer, card transfer and beneficiary management, plus eKYC with liveness detection.
+<br /><br />
+<code>50,000+ downloads</code>
+</td>
+<td width="50%" valign="top">
+<b>AB Direct</b><br />
+<sub>AB BANK &middot; RETAIL BANKING</sub>
+<br /><br />
+Brought Bangladesh Bank's IDTP interoperable payment rail into the platform, adding interbank transfer to retail banking.
+<br /><br />
+<code>100,000+ downloads</code>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<b>Unet</b><br />
+<sub>UNITED COMMERCIAL BANK &middot; RETAIL BANKING</sub>
+<br /><br />
+Designed trust-cum-settlement handling across backend and client, and carried it through user testing.
+<br /><br />
+<code>100,000+ downloads</code>
+</td>
+<td width="50%" valign="top">
+<b>Reaction Engine SDK</b><br />
+<sub>BANGLALINK &middot; IN-APP ENGAGEMENT</sub>
+<br /><br />
+Three configurable interaction types delivered over WebSockets and REST, taking a self-care app from no in-app reactions to a configurable engagement layer.
+<br /><br />
+<code>3 interaction types</code>
+</td>
+</tr>
+</table>
+
+<h3><img src="images/headers/opensource.png" height="38" alt="Open source" /></h3>
+
+<table width="100%">
+<tr>
+<th width="26%" align="left">Library</th>
+<th width="58%" align="left">What it does</th>
+<th width="16%" align="left">Stars</th>
+</tr>
+<tr>
+<td valign="top"><b><a href="https://github.com/DBSloop/sloop">Sloop</a></b></td>
+<td valign="top">Database toolkit: everyday operations, mirroring, backups, traffic monitoring, and multi-database sync on a cron or in realtime. Native on Windows, Linux and macOS.</td>
+<td valign="top"><a href="https://github.com/DBSloop/sloop"><img src="https://img.shields.io/github/stars/DBSloop/sloop?style=flat&labelColor=1B1E23&color=D97757&label=stars" alt="stars" /></a></td>
+</tr>
+<tr>
+<td valign="top"><b><a href="https://github.com/saadahmedscse/Android-Popup-Dialog">Android Popup Dialog</a></b></td>
+<td valign="top">Popup dialogs with and without animation.</td>
+<td valign="top"><a href="https://github.com/saadahmedscse/Android-Popup-Dialog"><img src="https://img.shields.io/github/stars/saadahmedscse/Android-Popup-Dialog?style=flat&labelColor=1B1E23&color=D97757&label=stars" alt="stars" /></a></td>
+</tr>
+</table>
+
+<h3><img src="images/headers/recognition.png" height="38" alt="Recognition" /></h3>
+
+<table width="100%">
+<tr>
+<th width="12%" align="left">Year</th>
+<th width="22%" align="left">Result</th>
+<th width="66%" align="left">Contest</th>
+</tr>
+<tr>
+<td><b>2023</b></td>
+<td>2nd place</td>
+<td>Inter-University Programming Contest</td>
+</tr>
+<tr>
+<td><b>2023</b></td>
+<td>Participant</td>
+<td>ICPC Preliminary Contest</td>
+</tr>
+<tr>
+<td><b>2022</b></td>
+<td>10th place</td>
+<td>Inter-University Programming Contest</td>
+</tr>
+</table>
+
+---
+
+<h3><img src="images/headers/contact.png" height="38" alt="Get in touch" /></h3>
+
+<p align="center">
+  <a href="https://saadahmedev.com">saadahmedev.com</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:saadahmedsoft@gmail.com">saadahmedsoft@gmail.com</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/saadahmedscsev2/">LinkedIn</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/saadahmedscse/">LeetCode</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/10610218/saad-ahmed">Stack Overflow</a>
+</p>
