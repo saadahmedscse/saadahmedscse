@@ -91,28 +91,7 @@ Three configurable interaction types delivered over WebSockets and REST, taking 
 
 <h3><img src="images/headers/recognition.png" height="38" alt="Recognition" /></h3>
 
-<table width="100%">
-<tr>
-<th width="12%" align="left">Year</th>
-<th width="22%" align="left">Result</th>
-<th width="66%" align="left">Contest</th>
-</tr>
-<tr>
-<td><b>2023</b></td>
-<td>2nd place</td>
-<td>Inter-University Programming Contest</td>
-</tr>
-<tr>
-<td><b>2023</b></td>
-<td>Participant</td>
-<td>ICPC Preliminary Contest</td>
-</tr>
-<tr>
-<td><b>2022</b></td>
-<td>10th place</td>
-<td>Inter-University Programming Contest</td>
-</tr>
-</table>
+<img src="images/recognition.png" alt="2023 — 2nd place, Inter-University Programming Contest. 2023 — Participant, ICPC Preliminary Contest. 2022 — 10th place, Inter-University Programming Contest." width="100%" />
 
 ---
 
